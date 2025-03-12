@@ -1,0 +1,57 @@
+<dependencies>
+    <dependency>
+        <groupId>org.apache.opennlp</groupId>
+        <artifactId>opennlp-tools</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+
+    <!-- OpenNLP Models (optional, if you want to use pre-trained models) -->
+    <dependency>
+    <groupId>org.apache.opennlp</groupId>
+    <artifactId>opennlp-models</artifactId>
+    <version>2.0.0</version>gi
+    </dependency>
+    <!-- OpenNLP Tools -->
+    <dependency>
+        <groupId>org.apache.opennlp</groupId>
+        <artifactId>opennlp-tools</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+
+    <!-- OpenNLP Models (optional, if you want to use pre-trained models) -->
+    <dependency>
+        <groupId>org.apache.opennlp</groupId>
+        <artifactId>opennlp-models</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+    <dependency>
+        <groupId>org.apache.opennlp</groupId>
+        <artifactId>opennlp-models</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+    <!-- Deeplearning4j -->
+    <dependency>
+        <groupId>org.deeplearning4j</groupId>
+        <artifactId>deeplearning4j-core</artifactId>
+        <version>1.0.0-M2.1</version>
+    </dependency>
+    <dependency>
+        <groupId>org.nd4j</groupId>
+        <artifactId>nd4j-native-platform</artifactId>
+        <version>1.0.0-M2.1</version>
+    </dependency>
+
+    <!-- Apache OpenNLP -->
+    <dependency>
+        <groupId>org.apache.opennlp</groupId>
+        <artifactId>opennlp-tools</artifactId>
+        <version>2.0.0</version>
+    </dependency>
+
+    <!-- Gson for JSON parsing -->
+    <dependency>
+        <groupId>com.google.code.gson</groupId>
+        <artifactId>gson</artifactId>
+        <version>2.10.1</version>
+    </dependency>
+</dependencies>
